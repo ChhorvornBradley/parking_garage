@@ -1,0 +1,98 @@
+{
+    "garageName": "old joe's",
+    "rows":[
+        {
+            "level" : 0,
+            "position": 0,
+            "spots" :[
+            {
+                "position":0,
+                "type":"motorcycle",
+                "occupied":false
+            },
+            {
+                "position":1,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":2,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":3,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":4,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":5,
+                "type":"large",
+                "occupied":false
+            },
+            {
+                "position":6,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":7,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":8,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":9,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":10,
+                "type":"large",
+                "occupied":false
+            },    
+            {
+                "position":11,
+                "type":"compact",
+                "occupied":false
+            }
+            ]   
+        },
+        {
+            "level" : 0,
+            "position": 1,
+            "spots" :[{
+                "position":0,
+                "type":"motorcycle",
+                "occupied":false
+            },
+            {
+                "position":1,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":2,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":3,
+                "type":"large",
+                "occupied":true
+            },{
+                "position":4,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":5,
+                "type":"large",
+                "occupied":false
+            },{
+                "position":6,
+                "type":"compact",
+                "occupied":false
+            }
+        ] 
+        }
+    ]
+}

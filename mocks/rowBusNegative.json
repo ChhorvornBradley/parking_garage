@@ -1,0 +1,36 @@
+{
+    "level" : 0,
+    "position": 1,
+    "spots" :[{
+        "position":0,
+        "type":"motorcycle",
+        "occupied":false
+    },
+    {
+        "position":1,
+        "type":"large",
+        "occupied":false
+    },{
+        "position":2,
+        "type":"large",
+        "occupied":false
+    },{
+        "position":3,
+        "type":"large",
+        "occupied":true
+    },{
+        "position":4,
+        "type":"large",
+        "occupied":false
+    },{
+        "position":5,
+        "type":"large",
+        "occupied":false
+    },{
+        "position":6,
+        "type":"compact",
+        "occupied":false
+    }
+]
+
+}
